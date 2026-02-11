@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎯 Passionate about **cybersecurity in general**. Always thought I'd go into offensive but lately I am realizing that being a good defender requires more skills.  
-- 💻 Currently learning **x86-64 architecture, gdb, web security and penetration testing**  
+- 💻 Currently learning **x86-64 architecture, web security and penetration testing**  
 - 📺 Might create a few blogs and post it from now onwards  
 - 📚 Lifelong learner with a focus on **practical, hands-on skills**    
 
