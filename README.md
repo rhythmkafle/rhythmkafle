@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Rhythm Kafle
+# Hi there 👋, I'm Rhythm Babu Kafle
 
-🚀 **Wanna be hacker**
+🚀 **A Wannabe hacker**
 
 ---
 
@@ -26,29 +26,22 @@
 
 ---
 
-## Projects & Repos
+## Projects
 
 - 🔹 Will update in the future
 
-Check out my repositories below 👇
-
 ---
 
-## Stats & Activity
+## Blogs
 
-![Rhythm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+- ![How to be a hacker, A roadmap](https://github.com/rhythmkafle/How-to-be-a-hacker-maybe-/blob/main/README.md)
 
 ---
 
 ## Let's Connect
 
-- 🌐 Portfolio / Blog: [your-portfolio-link]  
-- 📺 YouTube: [your-youtube-link]  
-- 🐦 Twitter: [your-twitter-link]  
-- 📫 Email: [your-email]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rhythmbabukafle/]  
 
 ---
 
-*"Stay curious, stay ethical, stay hacking!"* 🔐
+*A random generic quote about being motivated, in order to appear cool among wannabe nerds* 🔐
