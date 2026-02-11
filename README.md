@@ -1,45 +1,34 @@
 # Hi there 👋, I'm Rhythm Kafle
 
-🚀 **Aspiring Cybersecurity Professional | Penetration Tester | Hack The Box Challenger | Content Creator**
+🚀 **Wanna be hacker**
 
 ---
 
 ## About Me
 
-- 🎯 Passionate about **cybersecurity, penetration testing, and ethical hacking**  
-- 💻 Currently learning **x86-64 architecture, advanced pentesting techniques, and web security**  
-- 📺 Creating **educational and faceless cybersecurity content on YouTube**  
-- 📚 Lifelong learner with a focus on **practical, hands-on skills**  
-- 🎮 Lover of **CTFs, hacking challenges, and OSINT projects**  
+- 🎯 Passionate about **cybersecurity in general**. Always thought I'd go into offensive but lately I am realizing that being a good defender requires more skills.  
+- 💻 Currently learning **x86-64 architecture, gdb, web security and penetration testing**  
+- 📺 Might create a few blogs and post it from now onwards  
+- 📚 Lifelong learner with a focus on **practical, hands-on skills**    
 
 ---
 
 ## Skills
 
-### Offensive Security
-- Penetration Testing
-- Exploit Development
-- Buffer Overflow / Shellcoding
-- Windows & Linux Post-Exploitation
-- CTFs & Hack The Box
-
 ### Tools & Technologies
-- **Languages:** Python, Bash, C  
-- **Tools:** Burp Suite, Metasploit, Nmap, Gobuster, Wireshark, Evil-WinRM  
-- **OS:** Linux (Kali, Parrot), Windows  
+- **Languages:** any language, the basics are all the same after all (not rust, idk about rust)  
+- **Tools:** I just google most tools when needed, dont even know what to put here. Burp Suite maybe
+- **OS:** Linux, Windows (I can refresh the desktop)  
 
-### Web & Networking
-- Web Vulnerabilities (XSS, SQLi, CSRF)
-- Network Scanning & Enumeration
-- SS7 & VoIP Security Concepts  
+### Other Useful Tools
+- Github (I mean, duh)
+- I think I know others too ... anyways
 
 ---
 
 ## Projects & Repos
 
-- 🔹 **HackTheBox Walkthroughs** – Practical challenge solutions for beginners to advanced levels  
-- 🔹 **OSINT Scripts & Tools** – Automated scripts for email, phone, and domain reconnaissance  
-- 🔹 **Cybersecurity Utilities** – Tools for pentesting labs and real-world simulations  
+- 🔹 Will update in the future
 
 Check out my repositories below 👇
 
