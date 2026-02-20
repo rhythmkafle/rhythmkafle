@@ -32,9 +32,10 @@
 
 ---
 
-## Blogs
+## Blogs and Writeups
 
 - ![How to be a hacker, A roadmap](https://github.com/rhythmkafle/How-to-be-a-hacker-maybe-/blob/main/README.md)
+- ![Web Application Security Notes](https://github.com/rhythmkafle/web-application-security)
 
 ---
 
